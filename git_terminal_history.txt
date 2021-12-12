@@ -1,0 +1,16 @@
+ 1067  git status
+ 1068  git add crypto_arbitrage.ipynb
+ 1069  git status
+ 1070  git add crypto_arbitrage.ipynb
+ 1071  git status
+ 1072  git commit -m 'added specific dates analysis - early/mid/late'
+ 1073  git push origin main
+ 1074  git status
+ 1075  git add crypto_arbitrage.ipynb
+ 1076  git commit -m 'arbitrage calculations, multiple dates, up through profit per trade'
+ 1077  git push origin main
+ 1078  git status
+ 1079  git add crypto_arbitrage.ipynb
+ 1080  git commit -m 'arbitrage profit, cumulative profits, and analysis'
+ 1081  git push origin main
+ 1082  history | grep git
