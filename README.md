@@ -58,13 +58,13 @@ conda activate dev
 
 ## Usage
 
-The analysis is presented within a JupyterLab notebook. To launch JupyterLab, from the root of this repo dirctory:
+The analysis is presented within a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) notebook. To launch JupyterLab, from the root of this repo dirctory:
 
 ```
-# within repo root
+# inside repo root
 $ jupyter lab
 ```
-You can now optn the [notebook file](./crypto_arbitrage.ipynb) locally with JupyterLab.
+You can now open the [notebook file](./crypto_arbitrage.ipynb) locally with JupyterLab.
 
 ---
 
