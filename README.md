@@ -1,27 +1,27 @@
 # Fintech Challenge 03 -- Bitcoin Arbitrage Analysis
 
-An [analysis](#analysis)of bitcoin market prices across two exchanges, looking for arbitrage opportunities, using [pandas](https://pandas.pydata.org/).
+An [analysis](#analysis) of bitcoin market prices across two exchanges, looking for arbitrage opportunities, using [pandas](https://pandas.pydata.org/).
 
 ---
 
 ## Analysis 
 
-### DataSets
+#### DataSets
 Bitcoin market prices from two exchanges, with prices from Jan 2018 -> March 2018:
 - [Bitstamp](./Resources/bitstamp.csv)
 - [Coinbase](./Resources/coinbase.csv)
 
-### Assumptions
+#### Assumptions
 Three dates were chosen across the quarter from Jan -> March 2018: one early, middle and late in the quarter. Arbitrage opportunities were looked for from the Coinbase exchange to the Bitstamp exchange at each date.
 
-### Summary
+#### Summary
 There were significantly larger arbitrage opportunities at the beginning of the quarter than and the end, with the profitable spread actually at zero for the late quarter date. 
 
-|Period   	|Cumulative Profit   	|
-|---	|---	|
-|Early   	|14147.17   	|
-|Middle   	|330.07   	|
-|Late   	|0    	|
+|Period | Cumulative Profit ($) |
+| :---	| ---: |
+|Early - Jan 16 2018 | 14147.17 |
+|Middle- Feb 24 2018 | 330.07 |
+|Late- Mar 26, 2018 | 0 |
 
 See details and visualizations in the [notebook file](./crypto_arbitrage.ipynb)
 
