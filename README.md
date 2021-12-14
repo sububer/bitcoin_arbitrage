@@ -23,7 +23,7 @@ There were significantly larger arbitrage opportunities at the beginning of the 
 |Middle- Feb 24 2018 | 330.07 |
 |Late- Mar 26, 2018 | 0 |
 
-See details and visualizations in the [notebook file](./crypto_arbitrage.ipynb)
+See details and visualizations in the notebook [crypto_arbitrage.ipynb](./crypto_arbitrage.ipynb)
 
 ---
 
