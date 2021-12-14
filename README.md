@@ -7,7 +7,7 @@ An [analysis](#analysis) of bitcoin market prices across two exchanges, looking 
 ## Analysis 
 
 #### DataSets
-Bitcoin market prices from two exchanges, with prices from Jan 2018 -> March 2018:
+Bitcoin market prices from two exchanges, with prices from Jan 1 2018 -> March 31 2018:
 - [Bitstamp](./Resources/bitstamp.csv)
 - [Coinbase](./Resources/coinbase.csv)
 
@@ -61,7 +61,7 @@ conda activate dev
 The analysis is presented within a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) notebook. To launch JupyterLab, from the root of this repo dirctory:
 
 ```
-# inside repo root
+# within repo root 
 $ jupyter lab
 ```
 You can now open the [notebook file](./crypto_arbitrage.ipynb) locally with JupyterLab.
