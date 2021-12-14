@@ -64,7 +64,7 @@ The analysis is presented within a [JupyterLab](https://jupyterlab.readthedocs.i
 # within repo root 
 $ jupyter lab
 ```
-You can now open the [notebook file](./crypto_arbitrage.ipynb) locally with JupyterLab.
+You can now open the notebook [crypto_arbitrage.ipynb](./crypto_arbitrage.ipynb) locally with JupyterLab.
 
 ---
 
